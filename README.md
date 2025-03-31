@@ -35,7 +35,7 @@ Aquí encontrarán:
 
 
 - **💻📚Temas: *:  
-  - [📌 Tema 1: 01 - ¿QUÉ ES UNA BASE DE DATOS?](https://docs.google.com/document/d/1VpcEh1EohFWfmZzwozHxphdri80a1KxA/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true){:target="_blank"}
+- <a href="https://docs.google.com/document/d/1VpcEh1EohFWfmZzwozHxphdri80a1KxA/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">📌 Tema 1: 01 - ¿QUÉ ES UNA BASE DE DATOS?</a>
   - [📌 Tema 2: Modelado de Datos](https://docs.google.com/...)
   - [📌 Tema 3: Creación de una Base de Datos](https://docs.google.com/...)
   - [📌 Tema 4: Consultas Básicas con SQL](https://docs.google.com/...)
