@@ -21,7 +21,7 @@ Aquí encontrarán:
 <summary> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" height="32" style="vertical-align: middle; margin-right: 8px;"> Haz clic para ver los temas</summary>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         
 <p align="center">
-<strong>INTRODUCCIÓN A JAVA :pushpin:</strong>
+<strong>INTRODUCCIÓN A BASES DE DATOS :pushpin:</strong>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         
 
 
@@ -31,20 +31,21 @@ Aquí encontrarán:
 
 
 
-- <a href="https://drive.google.com/file/d/1PvihPOcMbT9BSmoA-2Irvaia9_pgCbXv/view?usp=sharing" target="_blank">📄 <b>PDF Teórico</b></a> - Estructura básica de un programa en Java.
 
 
-- **💻📚Temas: *:  
-- <a href="https://docs.google.com/document/d/1VpcEh1EohFWfmZzwozHxphdri80a1KxA/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">📌 Tema 1: 01 - ¿QUÉ ES UNA BASE DE DATOS?</a>
-  - [📌 Tema 2: Modelado de Datos](https://docs.google.com/...)
-  - [📌 Tema 3: Creación de una Base de Datos](https://docs.google.com/...)
-  - [📌 Tema 4: Consultas Básicas con SQL](https://docs.google.com/...)
-  - [📌 Tema 5: Normalización](https://docs.google.com/...)
-  - [📌 Tema 6: Índices y Optimización](https://docs.google.com/...)
+- **📚Temas:**  
+  - [📌 Tema 1: ¿QUÉ ES UNA BASE DE DATOS?](https://docs.google.com/document/d/1VpcEh1EohFWfmZzwozHxphdri80a1KxA/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true)
+  - [📌 Tema 2:  ¿QUÉ ES UNA TABLA EN BASE DE DATOS?.](https://docs.google.com/document/d/1C1v1o8nv6cVYD1ZZUSkG2jdaNqn1X8np/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true)
+  - [📌 Tema 3:  TIPOS DE BASES DE DATOS](https://docs.google.com/document/d/1vIbJiF7ZCS9iFUpsYr_vveMrnVmJhECm/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true)
+  - [📌 Tema 4: MODELO RELACIONAL.](https://docs.google.com/document/d/16BhY_6fYuxYL9qtTlq9ixtHdxAOD1HUo/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true)
+  - [📌 Tema 5: DIAGRAMAS-MODELO ENTIDAD RELACION.](https://docs.google.com/document/d/1PFLiKqHmLCkUSj9Ixnpfy3XOhGIHruX_/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true)
+  - [📌 Tema 6: MER [CARDINALIDAD].](https://docs.google.com/document/d/1el-J6VEEeqjCBtGlIjElIoeG3BPMOz3u/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true)
+  - [📌 Tema 6.1: MER [✍️TAREA].](https://docs.google.com/document/d/1tN8ZQxsHe9ux7OvA85c3MtwvT0mjhFwo/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true)
+  - [📌 Tema 7: MER [TIPOS DE DATOS + TAREA ✍️].](https://docs.google.com/document/d/1BfuI71YSI4KsK7esgVX8o09_7f8Sw92B/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true)
       
-      
+  <!--    
    
-  - **📝 Ejercicios - Tarea**:  
+  - **📝 Ejercicios - Tarea** :  
     - [✍️ Ejercicio 1: Escribir un programa que imprima "Hola Mundo"](Ejemplo-Clases/HolaQuinto.java)
     <a href="https://docs.google.com/document/d/197Jj-0qkYLfQORIxvMjSFOuFhDOM5oP1/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">
        ✍️ <b>PDF Ejercicios 25-03</b>
@@ -54,7 +55,7 @@ Aquí encontrarán:
       <a href="https://docs.google.com/document/d/1RRfVrvHuLn2hfll0lPg1hcVPLYDlNQRJ/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">
        ✍️ <b>Ejercicios Jueves 27-03</b> </a>
     - [✍️ Ejemplo: Libreria Random](Ejemplo-Clases/LibreriaRandom)
-       
+  -->
 
 </details>  
 
