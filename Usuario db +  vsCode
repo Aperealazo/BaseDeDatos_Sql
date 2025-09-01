@@ -1,0 +1,6 @@
+//Script para Crear y conectar db con vs code:
+
+CREATE USER 'tuUsuario'@'localhost' IDENTIFIED BY 'tuContraseña';
+ 
+GRANT ALL PRIVILEGES ON *.* TO 'tuUsuario'@'localhost' WITH GRANT OPTION;
+FLUSH PRIVILEGES;
