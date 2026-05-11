@@ -1,0 +1,42 @@
+<?php
+include("conex.php");
+
+//Consulta para traer todos los alumnos 
+$sql = "Select * from usuario";
+//Ejecutamos la consulta:
+$resultado = mysqli_query($conexion,$sql);
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listado de usuarios</title>
+</head>
+<body>
+    <h2>Listado de Usuarios en mi db</h2>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+        </tr>
+        
+         <?php
+         while ($fila = mysqli_fetch_assoc($resultado)){
+            echo "<tr>";
+            echo "<td>" . $fila['idUsuario'] . "</td>";
+            echo "<td>" . $fila['nombre'] . "</td>";
+            echo "<td>" . $fila['apellido'] . "</td>";
+            echo "</tr>";
+         }
+        ?>
+
+    </table>
+    <br><br>
+    <a href="index.html">Registrar otro alumno</a>
+
+
+</body>
+</html>
